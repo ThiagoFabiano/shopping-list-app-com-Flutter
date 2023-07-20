@@ -1,6 +1,10 @@
-# shopping_list
+Shopping List App
 
-A new Flutter project.
+App de lista de compras com Flutter
+
+App de receitas utilizando Flutter - Projeto criado seguindo o curso seguindo o curso: Flutter & Dart - The Complete Guide [2023 Edition] by Maximilian Schwarzmüller.
+
+Seções 11 e 12 - Formulários, tratamento de entrada de dados de usuários, conexão com backend e requisições HTTP
 
 ## Getting Started
 
